@@ -1,0 +1,14 @@
+# Backend
+weather-app/target/
+weather-app/src/main/resources/application.properties
+
+# Frontend
+weather-ui/node_modules/
+weather-ui/dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
