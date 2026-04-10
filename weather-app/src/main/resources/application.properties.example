@@ -1,0 +1,4 @@
+# File mẫu cấu hình - Hãy đổi tên thành application.properties và điền Key của bạn
+spring.application.name=weather-app
+server.port=8080
+weather.api.key=YOUR_API_KEY_HERE
